@@ -5,11 +5,14 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WpfApp1"
         xmlns:boolPick="clr-namespace:WpfApp1.BoolPick"
+        xmlns:entity="clr-namespace:WpfApp1.Entity"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
 
 
     <Grid>
-        <boolPick:BoolPickConverterView/>
+        <entity:EntityFrameworkView/>
+
+        <!--<boolPick:BoolPickConverterView/>-->
     </Grid>
 </Window>

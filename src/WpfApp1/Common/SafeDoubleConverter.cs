@@ -2,7 +2,7 @@
 using System.Windows;
 using System.Windows.Data;
 
-namespace WpfApp1
+namespace WpfApp1.Common
 {
     public class SafeDoubleConverter : IValueConverter
     {

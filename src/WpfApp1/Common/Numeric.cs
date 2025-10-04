@@ -5,7 +5,7 @@ using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Input;
 
-namespace WpfApp1
+namespace WpfApp1.Common
 {
     public static class Numeric
     {

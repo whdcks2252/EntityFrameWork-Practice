@@ -2,7 +2,7 @@
 using CommunityToolkit.Mvvm.Input;
 using System.Collections.ObjectModel;
 
-namespace WpfApp1
+namespace WpfApp1.BoolPick
 {
     public partial class BoolPickConverterVM : ObservableObject
     {

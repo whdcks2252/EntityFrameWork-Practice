@@ -3,7 +3,7 @@ using System.Globalization;
 using System.Windows;
 using System.Windows.Data;
 
-namespace WpfApp1
+namespace WpfApp1.BoolPick
 {
     public class BoolPickConverter : IMultiValueConverter
     {
